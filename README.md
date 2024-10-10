@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kushagrakatara89
+- 👋 Hi, I’m Kushagra Katara
 - 👀 I’m interested in web development and artificial intelligence.
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ai projects
